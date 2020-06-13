@@ -1,2 +1,3 @@
 # C-Selenium MSTests
-Selenium with C#
+Browser test automation using Selenium WebDriver in C#
+
